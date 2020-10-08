@@ -8,4 +8,4 @@ run-dev:
 
 .PHONY: run-test
 run-test:
-	@go test ./...
+	@ go test ./... -count=1

@@ -6,9 +6,10 @@ import (
 	"github.com/devetek/Go-Interface/helper"
 )
 
+var c = Circle{10}
+
 func TestCircleArea(t *testing.T) {
 	var testNumb float64 = 314.1592653589793
-	c := Circle{10}
 
 	aCircle := c.Area()
 
@@ -19,7 +20,6 @@ func TestCircleArea(t *testing.T) {
 
 func TestCirclePerimeter(t *testing.T) {
 	var testNumb float64 = 32.3606797749979
-	c := Circle{10}
 
 	pCircle := c.Perimeter()
 
