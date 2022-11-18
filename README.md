@@ -1,13 +1,16 @@
-## Golang Interace
+# Belajar Golang
+Belajar golang dalam bahasa Indonesia, dasar-dasar dengan contoh
 
-Bermain dengan golang interface, pada repository kali ini kita akan belajar dasar-dasar interace di bahasa pemrograman Go. Kita akan belajar menggunakan interface dengan menggunakan contoh rumus-rumus bentuk segi dalam matematika.
-
-### Jenis Interface
-
-- Empty Interface
-
-Adalah interface yang tidak memiliki method samasekali
-
-- Multiple Interface
-
-Interface yang memiliki banyak method
+- Environment Setup
+- Go Package
+- Variable Declarations
+- Structs in Go
+- Purpose of Interfaces
+- Functions and Return Types
+- Slices and Foor Loops
+- OO Approach vs Go Approach
+- Costum Types Declaration
+- Receiver Function
+- Channels and Go Routines
+- Error Handling
+- Testing with Go
